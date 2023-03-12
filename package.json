@@ -1,0 +1,14 @@
+{
+  "name": "acemble",
+  "version": "0.0.1",
+  "description": "Acemble helps you & your team develop components based development. Create & Reuse Components is never been so easy.",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Deliverable IT Services",
+  "license": "ISC",
+  "bin": {  
+    "acemble": "./bin/index.js"  
+  }
+}
